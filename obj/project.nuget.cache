@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "delD6ATRGTXaVso7O+eXnjb1VrR33pWM0e+3K6PrgInxByu7Bc621L1po7t0usp52agCHRD3yzmUtjcULYZ0nQ==",
+  "dgSpecHash": "gdCaQDBmjabXfMwKJa2GZENX/NZn3oNHYgYyhmYI7//4KnF9gGxRRt7n667qBQchdeO2Ej9DCZD3GvqjOkaGsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cacau e Leandro\\Desktop\\Nova pasta (2)\\ProAgil.WebAPI\\ProAgil.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Cacau e Leandro\\Desktop\\ProAgil\\ProAgil.WebAPI\\ProAgil.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
